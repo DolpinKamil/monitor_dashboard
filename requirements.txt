@@ -1,4 +1,2 @@
+﻿flask
 requests
-tk
-flask
-	
